@@ -1,0 +1,20 @@
+{
+  "dates": [
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "hour": 12,
+      "available": true,
+      "dni": "02734488H"
+    },
+    {
+      "year": 2021,
+      "month": 4,
+      "day": 1,
+      "hour": 9,
+      "available": true,
+      "dni": "02764688H"
+    }
+  ]
+}
